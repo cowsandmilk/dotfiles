@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/cowsandmilk/atlas_v8/atlas_package/examples'
+let g:netrw_dirhist_2='/Users/cowsandmilk/atlas_v8/atlas_package/examples/1ths'
+let g:netrw_dirhist_3='/Users/cowsandmilk/bin'

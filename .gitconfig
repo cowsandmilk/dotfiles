@@ -1,0 +1,12 @@
+[user]
+	name = David Hall
+	email = david@acpharis.com
+[core]
+	pager = less -SFRX
+	excludesfile = ~/.gitignore_global
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[push]
+	default = upstream
